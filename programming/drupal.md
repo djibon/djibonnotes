@@ -9,6 +9,6 @@ Reference of the lock mechanism:
 
 ### Fix the deadlock
 
-1. [https://groups.drupal.org/node/415883]
+1. https://groups.drupal.org/node/415883
 2.
 
